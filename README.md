@@ -24,6 +24,4 @@ Other than that i am learning Pixelart, 3D Modelling, Music theory ( This one is
 Basically, i want to become a "Jack of all trades" in Game Development, it's kinda my dream in life.
 So i am learning as much as i can!
 
-## My other accounts :
-
 
