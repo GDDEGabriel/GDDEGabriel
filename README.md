@@ -1,5 +1,7 @@
 ## Who am i?
 
+My name is Gabriel! ( Shocker! i know... )
+
 I am a Brazillian programmer and game developer who likes retro games!
 >By retro games, i mean either the nes/atari era of pixelart or the late 90s/early 2000s pre-rendered and 3D graphics.
 
