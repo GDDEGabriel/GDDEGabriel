@@ -1,4 +1,9 @@
-## Hi there 👋
+## Who am i?
+
+I am a Brazillian programmer and game developer who likes retro games!
+by retro games, i mean either the nes/atari era of pixelart or the late 90s/early 2000s pre-rendered and 3D graphics.
+
+
 
 <!--
 **GDDEGabriel/GDDEGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
